@@ -1,6 +1,6 @@
 # Responsive Portfolio Website Alexa Template
 <!-- will update video link -->
-## [Watch it on youtube](https://www.youtube.com/c/CodeWithPankaj1)
+## [Watch it on youtube](https://www.youtube.com/c/CodeWithPankaj1?sub_confirmation=1)
 ## [Live Preview of Website](https://pankajkumar90.github.io/Responsove_Portfolio_Website_Alexa/)
 ### Responsive Portfolio Website Alexa
 
@@ -10,6 +10,6 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-💙 Join the channel to see more videos like this. [Code_With_Pankaj](https://www.youtube.com/c/CodeWithPankaj1)
+💙 Join the channel to see more videos like this. [Code_With_Pankaj](https://www.youtube.com/c/CodeWithPankaj1?sub_confirmation=1)
 
 ![preview img](/preview.png)
