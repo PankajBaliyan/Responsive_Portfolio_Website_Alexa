@@ -1,4 +1,4 @@
-# Responsive Portfolio Website Alexa Template
+# Responsive Portfolio Website Alexa
 <!-- will update video link -->
 ## [Watch it on youtube](https://www.youtube.com/c/CodeWithPankaj1?sub_confirmation=1)
 ## [Live Preview of Website](https://pankajkumar90.github.io/Responsove_Portfolio_Website_Alexa/)
